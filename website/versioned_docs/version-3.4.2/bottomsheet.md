@@ -15,7 +15,7 @@ Overlay Modal that displays content from the bottom of the screen.
 
 ## Usage
 
-```js
+```tee
 const [isVisible, setIsVisible] = useState(false);
 const list = [
   { title: 'List Item 1' },
